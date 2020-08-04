@@ -56,6 +56,7 @@ I was surprised by how easy it was to create a wall texture with a nice retro lo
 * After copying on another layer, I applied a relief filter to highlight the craks.
 * Added random noise on yet another layer.
 * Used a black-to-white gradient and some hand painting to add "dirt" on the top layer.
+
 At the end, I did what I would do with [materials](https://docs.blender.org/manual/en/2.80/editors/shader_editor/index.html), almost without noticing.
 
 
