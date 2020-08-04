@@ -7,6 +7,10 @@ It is one of the simplest way to render a 3D world.
 Yes, it has to be a very simple world of vertical, square walls, but it can be drawn with very few lines of code and simple math.
 It does not even need vectors or matrices (quite hard to believe, if you are used to more modern ways of doing 3D graphics).
 
+![Sample screeshot 1](https://github.com/stefanos-86/Ray-Cast-Exercise/blob/master/Screenshot1.png "")
+![Sample screeshot 2](https://github.com/stefanos-86/Ray-Cast-Exercise/blob/master/Screenshot2.png "")
+
+
 The results look raw, but the algorithm worked nicely on the PCs available in the early 90s.
 
 [And it changed the world.](https://archive.org/details/msdos_Wolfenstein_3D_1992)
