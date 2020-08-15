@@ -76,7 +76,7 @@ At the end, I did what I would do with [materials](https://docs.blender.org/manu
 I would like to thank the authors of the documents below for gifting their excellent guides to the internet.
 
 * [Lazy Foo's tutorials on the SDL library](https://lazyfoo.net/tutorials/SDL/index.php)
-* [Permadi's essay on ray casting](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/)
+* [Permadi's essay on ray casting](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/) - I did not look at the code examples.
 
 
 ### Where can you go from here?
