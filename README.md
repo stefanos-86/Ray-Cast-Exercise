@@ -78,6 +78,8 @@ I would like to thank the authors of the documents below for gifting their excel
 * [Lazy Foo's tutorials on the SDL library](https://lazyfoo.net/tutorials/SDL/index.php)
 * [Permadi's essay on ray casting](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/) - I did not look at the code examples.
 
+I knew that this techique was an important step in 3D technology. I had the gut feeling it was a revolution. But it took [Game Engine Black Book Wolfenstein 3D](https://archive.org/details/gebbwolf3d) (Fabien Sanglard, 2019), which I found a few months after coding this toy, to *actually open my eyes*. I believed they were geniuses. I was not giving them enough credit.
+
 
 ### Where can you go from here?
 Ray Casting is a very basic technique. But the principle is very close to what Ray Tracing does. This is a much more powerful techinque.
