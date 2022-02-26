@@ -38,7 +38,7 @@ that let me test the rendering algorithm. The lower level package, RayCast, depe
 But the implementations are in the higher level packages: the real one that actually draws the pixels (via SDL calls) and a mock one to test.
 
 ### Quality and performance.
-As usual, I made an effor to ensure that the code works right. I unit-tested the core library, kept the "untestable" UI 
+As usual, I made an effort to ensure that the code works right. I unit-tested the core library, kept the "untestable" UI 
 part as simple as possible, verified the error codes...
 
 However, the code is not written with "defensive programming" in mind, nor tested very deeply. It could be made more robust and safer.
@@ -53,7 +53,7 @@ A bit of profiling suggests that it was a good choice: the bottleneck I found is
 I was surprised by how easy it was to create a wall texture with a nice retro look.
 * With [Paint .NET](https://www.getpaint.net/), I started with an uniform grey square.
 * Then traced by hand the cracks between the stones, making sure that strokes on the border ended at the same height (to ensure the texture is seamless).
-* After copying on another layer, I applied a relief filter to highlight the craks.
+* After copying on another layer, I applied a relief filter to highlight the cracks.
 * Added random noise on yet another layer.
 * Used a black-to-white gradient and some hand painting to add "dirt" on the top layer.
 
